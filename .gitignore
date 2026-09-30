@@ -1,0 +1,15 @@
+# Local environment configs containing private LAN IPs
+deploy.config.json
+*.local.json
+
+# Local device backups containing network SSIDs / MAC addresses
+backup/
+archive/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.log
+.vscode/
+.idea/

@@ -1,0 +1,15 @@
+{
+  "central": {
+    "ip": "192.168.1.100",
+    "scriptId": 1
+  },
+  "mirror": {
+    "ip": "192.168.1.103",
+    "scriptId": 1
+  },
+  "peers": {
+    "plinthIP": "192.168.1.101",
+    "towelRailIP": "192.168.1.102",
+    "mirrorIP": "192.168.1.103"
+  }
+}
